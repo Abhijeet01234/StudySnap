@@ -1,0 +1,29 @@
+# Maven / Gradle build output
+/target/
+/build/
+
+# IntelliJ IDEA / Eclipse / VS Code
+*.iml
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Uploads (your runtime note files should not be pushed)
+uploads/
+
+# Environment & config (if needed)
+/application.properties
+/application.yml
+
+# Temp files
+*.tmp
+*.swp
